@@ -1,3 +1,15 @@
 # Python-Portfolio
-The code contained within is for a project involving the analyzation of Instacart data related to products, orders, and fabricated customer data. The fabrication also included cost data for the sake of practice in conducting an analyzation project. The Data is based on a 2017 set no longer available on Instacarts website. 
-Section 02 Data can be found here as it did not meet with the size limitations Github requires. https://drive.google.com/drive/folders/1gQbTzKpx3YNeXrRHfgzspvJcEHysCy0I?usp=share_link
+
+This portfolio contains code for analyzing Instacart data related to products, orders, and fabricated customer data. The data used in this project is based on a 2017 set no longer available on Instacart's website.
+
+## Objectives
+
+The main objectives of this project include:
+
+- Determine the busiest days of the week and hours of the day with the most orders
+- Identify the times of day when people spend the most money
+- Group products by price range for marketing and sales purposes
+- Determine the departments with the highest frequency of product orders
+- Analyze customer ordering behavior, including brand loyalty, loyalty status, region, and age/family status
+
+The final results of the project can be seen in 04 Sent to Client section of the repository.
